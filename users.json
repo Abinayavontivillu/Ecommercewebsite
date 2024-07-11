@@ -1,0 +1,70 @@
+[
+  {
+    "userId": "668df413a7a04a9bcb59e2b9",
+    "emailId": "user1@gmail.com",
+    "pwd": "StrongP@ssw0rd",
+    "sex": "male",
+    "age": 30,
+    "dob": "1993-01-01T00:00:00.000+00:00",
+    "userName": "user_name",
+    "firstName": "John",
+    "lastName": "Doe",
+    "createdTime": "2024-07-09T00:00:00.000+00:00",
+    "lastLogin": "2024-07-09T10:00:00.000+00:00",
+    "contact": [
+      {
+        "type": "mobile",
+        "number": "1234567890"
+      },
+      {
+        "type": "home",
+        "number": "1234567890"
+      }
+    ],
+    "address": [
+      {
+        "address1": "123 Main St",
+        "address2": "Apt 4B",
+        "state": "NY",
+        "city": "New York",
+        "pin": "10001",
+        "contactno": "1234567890",
+        "alternateno": "0987654321"
+      }
+    ]
+  },
+  {
+    "userId": "668df437a7a04a9bcb59e2bb",
+    "emailId": "user2@gmail.com",
+    "pwd": "StrongP@ssw0rd",
+    "sex": "male",
+    "age": 30,
+    "dob": "1993-01-01T00:00:00.000+00:00",
+    "userName": "user_name",
+    "firstName": "Johne",
+    "lastName": "Done",
+    "createdTime": "2024-07-09T00:00:00.000+00:00",
+    "lastLogin": "2024-07-09T10:00:00.000+00:00",
+    "contact": [
+      {
+        "type": "mobile",
+        "number": "12345678"
+      },
+      {
+        "type": "home",
+        "number": "12345678"
+      }
+    ],
+    "address": [
+      {
+        "address1": "123 Main St",
+        "address2": "Apt 4B",
+        "state": "NY",
+        "city": "New York",
+        "pin": "10001",
+        "contactno": "1234567890",
+        "alternateno": "0987654321"
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "668fe1a4873491a3d42058f1",
+    "description": null,
+    "category": "handbag",
+    "brand": "MK",
+    "price": 100,
+    "offer": 20,
+    "manufacturer": "Manufacturer Name",
+    "inStock": 50,
+    "ifAvailable": true,
+    "mrp": 120,
+    "margin": 100,
+    "colors": [
+      {
+        "colorcode": "#FFFFFF",
+        "colorname": "White"
+      },
+      {
+        "colorcode": "#000000",
+        "colorname": "Black"
+      }
+    ],
+    "images": [
+      {
+        "imagesid": "1",
+        "resolution": "1024x768",
+        "type": "jpeg",
+        "weblocation": null
+      },
+      {
+        "imagesid": "2",
+        "resolution": "800x600",
+        "type": "png",
+        "weblocation": null
+      }
+    ]
+  },
+  {
+    "id": "668fe217873491a3d42058f3",
+    "description": null,
+    "category": "handbag",
+    "brand": "coach",
+    "price": 100,
+    "offer": 20,
+    "manufacturer": "Manufacturer Name",
+    "inStock": 50,
+    "ifAvailable": true,
+    "mrp": 120,
+    "margin": 100,
+    "colors": [
+      {
+        "colorcode": "#FFF00",
+        "colorname": "Red"
+      },
+      {
+        "colorcode": "#00FF00",
+        "colorname": "green"
+      }
+    ],
+    "images": [
+      {
+        "imagesid": "1",
+        "resolution": "1024x768",
+        "type": "jpeg",
+        "weblocation": null
+      },
+      {
+        "imagesid": "2",
+        "resolution": "800x600",
+        "type": "png",
+        "weblocation": null
+      }
+    ]
+  }
+]
